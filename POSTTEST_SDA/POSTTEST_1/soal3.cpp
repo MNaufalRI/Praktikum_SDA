@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <iomanip>
+#include <iomanip> // Digunakan untuk membuat tabel agar lebih rapi
 using namespace std;
 
 struct Mahasiswa {
